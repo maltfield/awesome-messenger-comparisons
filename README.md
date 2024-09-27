@@ -72,7 +72,7 @@ Restore Privacy first published [an article](https://restoreprivacy.com/secure-e
 
  * https://restoreprivacy.com/secure-encrypted-messaging-apps/
 
-# Digital Communications Protocols
+## Digital Communications Protocols
 
 Hashbang maintains a [Google Docs spreadsheet](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit?gid=0#gid=0) comparing the features of various communication protocols and apps
 
