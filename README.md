@@ -90,7 +90,7 @@ The NSA has also published [a guide](https://media.defense.gov/2020/Aug/14/20024
 
 # Something Missing?
 
-Do you know of another site that compares the security & privacy of popular messaging apps? Please open an issue in this repo or [contact me](https://email.michaelaltfield.net]
+Do you know of another site that compares the security & privacy of popular messaging apps? Please open an issue in this repo or [contact me](https://email.michaelaltfield.net)
 
 # License
 
