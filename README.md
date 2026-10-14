@@ -88,6 +88,12 @@ The NSA has also published [a guide](https://media.defense.gov/2020/Aug/14/20024
 
  * https://media.defense.gov/2020/Aug/14/2002477670/-1/-1/0/
 
+## XChat Directory
+
+Swee created [XChat Directory](https://xchat.directory) to compare encrypted messengers (Signal, Session, SimpleX, Threema, Element and others) with short reviews, ranking notes and last-reviewed dates, plus a directory of public XChat groups.
+
+ * https://xchat.directory
+
 # Something Missing?
 
 Do you know of another site that compares the security & privacy of popular messaging apps? Please open an issue in this repo or [contact me](https://email.michaelaltfield.net)
